@@ -1,0 +1,28 @@
+form{
+    background-color: lightcoral;
+display: inline-block;
+padding: 30px;
+}
+form div{
+    margin: 20px;
+}
+form label{
+    display: inline-block;
+    width: 100px;
+}
+#legendId2{
+    color: blue;
+    font-size: 1.5rem;
+    display: inline-block;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+#legendId1{
+    color: hotpink;
+    font-size: 1.5rem;
+    display: inline-block;
+    background-color: slateblue;
+    border: 2px dotted black;
+    border-radius: 20px;
+}
